@@ -1,0 +1,41 @@
+Vamos brincar com algumas variações do “Olá, mundo” para você já ir além do básico:
+
+1. Imprimir seu nome
+python
+print("Olá, David!")
+Aqui o texto é fixo, mas você pode trocar por qualquer nome.
+
+2. Misturar texto com variável
+python
+nome = "David"
+print("Olá,", nome)
+O Python junta o texto com o valor da variável nome.
+
+3. Pedir o nome do usuário
+python
+nome = input("Digite seu nome: ")
+print("Olá,", nome)
+input() lê o que você digitar no teclado e guarda na variável.
+
+4. Misturar texto com número
+python
+idade = 25
+print(f"Olá, David! Você tem {idade} anos.")
+O f"" permite colocar variáveis dentro do texto usando {}.
+
+5. Fazer uma continha junto
+python
+a = 5
+b = 3
+print("A soma de", a, "e", b, "é", a + b)
+O print aceita vários elementos separados por vírgula.
+
+(print) é uma função embutida (ou seja, já vem pronta no Python, você não precisa importar nada).
+Sua função principal é enviar informações para a saída padrão, que normalmente é a tela/console.
+É como se fosse a “voz” do programa: ele mostra para você o que está acontecendo.
+
+(print) é a forma mais simples de mostrar dados durante a execução de um programa em Python, seja para depuração, 
+interação com o usuário ou exibição de resultados.
+
+Esses exemplos já mostram como o print pode ser usado para texto, variáveis e números.
+
