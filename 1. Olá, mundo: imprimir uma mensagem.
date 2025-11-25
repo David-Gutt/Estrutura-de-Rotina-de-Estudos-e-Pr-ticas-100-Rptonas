@@ -1,0 +1,28 @@
+Famoso "Olá, mundo". 
+
+python
+# Primeiro programa em Python
+print("Olá, mundo")
+
+Explicação rápida
+print() → é uma função nativa do Python que mostra algo na tela.
+
+"Olá, mundo" → está entre aspas porque é um texto (string).
+
+Quando você executa esse código, o computador vai exibir exatamente:
+
+Código
+Olá, mundo
+
+Como rodar
+Abra um editor de texto ou IDE (ex.: VS Code, PyCharm, ou até o bloco de notas).
+
+Salve o arquivo com o nome ola_mundo.py.
+
+No terminal/cmd, digite:
+
+Código
+python ola_mundo.py
+Você verá a mensagem aparecer na tela.
+
+Faça pequenas variações, tipo imprimir seu nome ou misturar texto com números, para já ir além do básico.
